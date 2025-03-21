@@ -1,0 +1,58 @@
+
+
+.main{
+	text-align: center;
+	padding: 2%;
+	background-color: #ffc1b4;
+	
+}
+
+.main-image{
+	border-radius: 10%;
+	
+}
+
+button{
+	width: 25%;
+	padding: 20px;
+	border-radius: 20px;
+	background-color: rgb(123, 219, 187);
+	font-weight: bold;
+	font-size: 100%;
+	position: static;
+	display: inline-block;
+
+	
+}
+.yeah{
+	text-align: center;
+}
+
+ol {
+	list-style-position: inside;
+}
+
+h1{
+	color: #034C53;
+}
+
+h2{
+	color: #F38C79;
+}
+
+
+.nope{
+	font-family:"Times New Roman";
+	color:red;
+	width: 50%;
+	left:0px;
+	top:0px;
+
+
+}
+.senhora{
+	width: 50%;
+	right:0px;
+	top:0px;
+
+}
